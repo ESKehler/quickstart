@@ -1,2 +1,2 @@
 # quickstart
-This repo will store the settings and modifications made to code editors to make them optimally functional
+The settings and modifications to make code editors optimally functional (IMHO)
